@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Nafay</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate full stack developer </h3>
 
 - 🔭 I’m currently working on **Java, Python, Next.js, React Native , Javascript**
 
