@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **Java , Python , React and Javascript**
 
-- 📫 How to reach me **StackDevOwner.com**
-
 🌐 Socials
 
 
