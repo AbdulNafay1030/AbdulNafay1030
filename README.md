@@ -6,11 +6,7 @@
 
 - 🔭 I’m currently working on **Java, Python, Next.js, React Native , Javascript**
 
-- 🌱 I’m currently learning **Dataframes of cloud servers**
-
 - 👯 I’m looking to collaborate on **React, Java , React Native**
-
-- 🤝 I’m looking for help with **AWS**
 
 - 💬 Ask me about **Java , Python , React and Javascript**
 
